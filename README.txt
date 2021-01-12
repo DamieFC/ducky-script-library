@@ -13,4 +13,4 @@ There's a GNU C Library, so why not a Ducky Script Library? You can use these sc
       _      _      _      USB       _      _      _
    __(.)< __(.)> __(.)=   Rubber   >(.)__ <(.)__ =(.)__
    \___)  \___)  \___)    Ducky!    (___/  (___/  (___/ 
-			 			Library.
+			 			 Library.
