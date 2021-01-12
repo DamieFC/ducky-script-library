@@ -1,4 +1,4 @@
-REM Type Hey, dumbhead 🤯! into Windows notepad. Target: Windows 95 and beyond. Author: Damien
+REM Type Hey, dumbhead 🤯! into Windows notepad.
 DELAY 1000
 GUI r
 DELAY 100
