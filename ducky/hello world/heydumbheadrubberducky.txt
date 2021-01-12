@@ -1,0 +1,8 @@
+REM Type Hey, dumbhead 🤯! into Windows notepad. Target: Windows 95 and beyond. Author: Damien
+DELAY 1000
+GUI r
+DELAY 100
+STRING c:\windows\notepad.exe
+ENTER
+DELAY 1000
+STRING Hey, dumbhead 🤯! I'm in your PC! Courtesy of your human trust/stupidity and the USB Rubber Ducky.
